@@ -19,3 +19,5 @@ namespace Symfony\Bundle;
 final class FullStack
 {
 }
+Eu que fiz
+
